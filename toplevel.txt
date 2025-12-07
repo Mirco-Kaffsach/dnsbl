@@ -1,2 +1,4 @@
 *.ru
 *.cn
+test.ru
+*.tester.ru
