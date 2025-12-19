@@ -62,7 +62,6 @@
 @@||addradio.de^$important
 @@||telemetry-console.api.playstation.com^$important
 @@||gateway.discord.gg^$important
-@@||unlashchaule.qpon^$client='macbook-pro'
 @@||linktr.ee^$important
 @@||tiktoklinksafety.eu^$important
 @@||brother.de^$important
@@ -114,7 +113,6 @@
 @@||gematik.de^$important
 @@||server-world.info^$important
 @@||linuxcapable.com^$important
-@@||ps-net.online^$important
 @@||it.nrw^$important
 @@||amazonaws.com^$important
 @@||amazon.com^$important
